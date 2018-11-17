@@ -13,7 +13,7 @@
         <!--View Controller-->
         <scene sceneID="dBg-WD-6pg">
             <objects>
-                <viewController id="sZX-sx-Y82" sceneMemberID="viewController">
+                <viewController id="sZX-sx-Y82" customClass="ViewController" customModule="Swift5FirebaseBasic" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4wG-er-sus">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -31,6 +31,7 @@
                                 </state>
                                 <connections>
                                     <action selector="login:" destination="lGR-GG-u9e" eventType="touchUpInside" id="N8P-5D-ddn"/>
+                                    <action selector="login:" destination="sZX-sx-Y82" eventType="touchUpInside" id="gYK-7H-wcZ"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -95,7 +96,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.0" green="0.58980089430000004" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                <state key="normal" title="Button">
+                                <state key="normal" title="投稿する">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
