@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>299090539374-0b5liebiie1n24c4q3n1mmm6fjhq2j8m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.299090539374-0b5liebiie1n24c4q3n1mmm6fjhq2j8m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPV2Xvwr67fj1aTCowL6Kl-9HVIy75PPc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>299090539374</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.taiki.Swift5FirebaseBasic</string>
+	<key>PROJECT_ID</key>
+	<string>swift5firebasebasic-cf39d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swift5firebasebasic-cf39d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:299090539374:ios:8f2828aabbef86a2</string>
+	<key>DATABASE_URL</key>
+	<string>https://swift5firebasebasic-cf39d.firebaseio.com</string>
+</dict>
+</plist>
